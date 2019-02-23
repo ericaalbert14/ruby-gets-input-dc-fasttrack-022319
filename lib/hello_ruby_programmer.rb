@@ -4,4 +4,3 @@ def greeting
    name = gets.strip
 end
 
-greeting(name)
